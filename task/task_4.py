@@ -1,13 +1,14 @@
 
 def input_list1():
-    print("Enter the element you want to enter in the list")
-    size = int(input())
-    data_input = []
-    print('Enter the values')
-    for trash in range(size):
-        print(f'enter the : {trash+1} value')
-        temp = int(input(":"))
-        data_input.append(temp)
+    # print("Enter the element you want to enter in the list")
+    # size = int(input())
+    # data_input = []
+    # print('Enter the values')
+    # for trash in range(size):
+    #     print(f'enter the : {trash+1} value')
+    #     temp = int(input(":"))
+    #     data_input.append(temp)
+    data_input = input("Enter the name here:")
     return data_input
 
 
