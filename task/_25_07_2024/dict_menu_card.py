@@ -14,11 +14,8 @@ def add_function(veg_starter,user_dish,index):
 #update function
 def update_function(user_dish,index_valeu):
     print("-----Enter the food item you want to update-----")
-    tem = 0
-    for trash in user_dish.values():
-        
-        print(f"{tem+1}: {trash}")
-        tem+=1
+    for trash in (user_dish):
+        print(f"{trash}", user_dish[trash])
     index_valeu = int(input("enter the you item in number you want to update: "))
     # item_value = str(input("Enter the menu item number:"))
     #by using th pop function
