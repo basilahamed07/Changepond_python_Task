@@ -33,10 +33,12 @@ class Arithmetic:
         sums = [trash for trash in range(1,self.values+1) if self.values%trash == 0]
         return f"the sum of factor {sum(sums)}"
     def factoes(self):
-        factors = [i for i in range(1, self.value) if self.value % i == 0]
-        print(f"Factors of {self.value}: {factors}")
+        factors = [trash for trash in range(1,self.values) if self.values % trash == 0]
+        print(f"Factors of {self.values}: {factors}")
 obj1=Arithmetic(6)
 print(obj1.checkPrime())
 print(obj1.checkperfect())
+print(obj1.sumfactors())
+print(obj1.factoes())
         
     
