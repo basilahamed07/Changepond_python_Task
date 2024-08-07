@@ -1,0 +1,7 @@
+file handling  :
+    -> file handling is uesd to extrect or read or modify the one file from using the python file
+#open()function
+    -> open(filename, mod(a,w,r))
+    example:
+        -> open('calculator.txt',r) # read
+        -> open('calculator.txt'w) # write

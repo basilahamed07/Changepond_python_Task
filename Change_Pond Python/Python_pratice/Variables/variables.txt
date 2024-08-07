@@ -1,0 +1,20 @@
+variables are container
+->it will used to store thr valeus and when ever we want to use the values we can call the variable by using the variable name
+->used to reffer memory loecation
+=> also know as the identifier
+
+
+
+keywords
+
+-> it ius an special recived words
+-> to check the what are the keywords help('keywords')
+
+
+id() is an in build function
+
+all objects in python has its own unique id
+
+it is represented by an integer values
+
+id() function returns the i of the specific variablees

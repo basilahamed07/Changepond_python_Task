@@ -1,0 +1,7 @@
+#f-string
+    to iert a variable values into a string
+    PLACE the letter f immediately before opening theb quotation mark
+
+    -> put braces around the varibale name 
+    -> python will replace each variable with its value when string is display
+    -> these 

@@ -1,0 +1,5 @@
+#membership operator
+
+-> in (true) if value is found in the sequance
+-> not in (True) if the value is not found in sequance
+it is used to test a variable is in a sequance 

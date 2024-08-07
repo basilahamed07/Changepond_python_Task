@@ -1,0 +1,23 @@
+map filer and reduce are paradiges of function programming
+map and filter com build with python(build in function)
+reduce , need to be imported as in  resiside in the functools libary or moduls
+
+syntax(filter):
+filter(function,itrable):
+    -> function: it  tests if each element of a sequance    and it will return the True or False
+    -> itrabel(squance)  -> which need to be filter it can be list, tuple, set, dict,string
+
+Lamda_function(anonymous function ): -> function withoud function name
+-> this function can take any number arguments but only ony one expression which is evaluated but only one expression which is evaluated and returned
+
+syntax: lambda function 
+
+
+#map function
+map function return a map object(which is an itrable) of the result
+after applying the given function to each items of given  itrable(list,tuple,etc)
+or allow you to process and transforms all the items in an iterable
+without using an explict for liip , a technique commonly know as mapping
+
+syntax:
+map(function,itrable,[iterable1,iterable2,iterable3])

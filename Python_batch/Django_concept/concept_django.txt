@@ -1,0 +1,31 @@
+DJANGO 
+ Module Introduction 
+ Installation of Django 
+ Creating a Django Project 
+ URLs & Views 
+ Creating More Views and URLs 
+ Redirects  Reverse function 
+ Template & Static Files 
+ Adding & Registering Templates 
+ Rendering Templates
+ Template Inheritance 
+ Adding Static Files 
+ Adding CSS Styling 
+ Building Static URLs Dynamically 
+ Data & Models 
+ Understanding Database Options 
+ Django Models with fields 
+ Migrations 
+ Inserting Data & Updating 
+ Querying and Filtering data 
+ Preparing Templates 
+ Rendering Queried Data in the Template 
+ Model URLs 
+ Adding a Slugfield & Overwriting Save 
+ Admin 
+ Relationships 
+ Forms 
+ Class Views 
+ File Uploads 
+ Django Rest Framework 
+ Git & Github//

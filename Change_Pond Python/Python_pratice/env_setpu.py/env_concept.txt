@@ -1,0 +1,26 @@
+#VIRTUALENVWRAPPER-WIN
+
+
+setp-1:
+
+install by using the pip
+    ->pip install virtualenvwrapper-win
+
+setp2:
+macking the env in file
+    ->mkvirtualenv (any_name)
+        example
+            mkdvirtualenv basil
+
+setp3:
+to cheage to env we can use 
+    -> workon env_name
+
+setp3:
+inside the env install the needed packages
+    -> We can install the requaired packages
+
+
+
+#TO ACTIVATE THE ENV     
+    workon (ENVIRONMENT_NAME)

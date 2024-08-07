@@ -1,0 +1,23 @@
+Function:
+->  a Function is an blocak of code 
+->  that will performs a specifc task
+-> functions are resuable pieses of program
+-> they allow you to give a name to a block of satements
+alllow you to run that block usin specified name anywhere in your program and any number of times
+-> this is konw as functions
+-> the name given in the functions definiction are called parameters
+where the values you supply in the functions call are arguments
+-> you define a functions with the def keywords
+-> then write identifier(name) followed by parameters and a colum
+
+syntax 
+def functio_name(): # function decelaraction
+    statemetsa # function statements
+functio_name() # function calling
+
+return statement was used to exit from the function and go back to the function
+caHello how are you
+hello new data
+hello new data
+hello new data
+hello new data

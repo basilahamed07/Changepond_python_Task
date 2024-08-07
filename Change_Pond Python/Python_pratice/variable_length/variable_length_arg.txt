@@ -1,0 +1,5 @@
+variable len arguments
+#when we dont knoe the size of the argument we cam use the varibalelength arguments
+->allows a function to accept a variable number of arguments
+1) non-keyworded arguments(*args)
+2) keyword arguments(**kwargs)

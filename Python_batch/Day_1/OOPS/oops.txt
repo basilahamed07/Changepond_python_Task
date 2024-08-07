@@ -1,0 +1,26 @@
+-> our program around functions i.e blocks of statements that manipulate data.This is called the procedural-oriented way of programming
+
+-> There is another way of organizing your program which is to combine data and functionaity and wrap it inside something called an object. this is called as object-oriented programming
+
+OOP's concepts:
+-> class
+-> objects
+-> polymorphism
+-> Encapsulation
+-> inhe
+
+
+class
+
+- > a class is an collection of object
+- > a class is a blueprint for how something should be defined 
+- >  class define the functions call method which identify the behivieros that an object create from the class can perform with its data
+
+Object:
+-> object are anything that has properties and some behaviours 
+- > the rpoperty of the object are reffered as variables
+- > behaviours - > functions of the object
+- > the properties that all object have are define in a method called  __init__() 
+
+-> __init__ set he initial state of the objects 
+

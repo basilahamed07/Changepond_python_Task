@@ -1,0 +1,7 @@
+while looping is ued to exicute the block of the statement repeatedaly untill a given condiction is satisfide
+when the condiction become false the line immeediately after the looping the given program is exicute
+
+syntax:
+    while(expression):
+        condiction
+        

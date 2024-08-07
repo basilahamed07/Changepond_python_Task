@@ -1,0 +1,4 @@
+Datatype:
+========================
+-> Datatype are catagorixed or classifictation od data items
+-> it represented the kind of values that tells what operaction ca be performed 

@@ -1,0 +1,8 @@
+dictnory
+    -> a dictionary is an collection of key an value pairs
+    -> here each ey is connected to value
+    -> here we can seperate the value by using the : SYNTAX = COLLECTION = {KEY:VALUE}  
+    -> 
+-------------------------------
+    -. key shoude be unique 
+    -> 

@@ -1,0 +1,6 @@
+set:
+    -> set collection of items
+    -> enclosed withn {}
+    -> each element was seperated with ,
+    ->set unorder
+    -> set mutable by using the functionm of add,remove , update
