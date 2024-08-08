@@ -1,0 +1,18 @@
+"ABC" --> Abstract Base Class, is used for creating abstract classes
+--> an abstract class is a class that cannot be instantiate and is designed to be a base class for other class
+--> common interface for a group of subclasses
+
+from abc import ABC, abstractmethod
+class MyAbstractClass(ABC):
+    @abstractmethod
+    def my_abstract_method(self):
+        pass
+
+
+#implement abstract method in subclasses
+
+for the example 
+class concreateclass(MyAbstractClass):
+    def my_abstract_method(self):
+        print("implement of the abstract method)
+        

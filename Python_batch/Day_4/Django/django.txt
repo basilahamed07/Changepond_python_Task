@@ -1,0 +1,47 @@
+  Frame work
+
+-> It is a Structure that you can build software on it
+
+-> using framework Saves time and reduces the risk of errors
+
+-> you dont need to configured it (it creates a directory structure)
+
+
+Libraires Vs FrameWork
+
+-> Library(collection of pre-written code that can be used to perform common task)
+
+->user/Programmer is calling the code
+
+>>> import math
+>>> math.sqrt(16)
+4.0
+
+
+
+FrameWork:
+-> in framework it is the code in the framework that calls the code
+
+->framework tells you where to put your code
+
+=================================================================================================
+-> Django is a open-source web framework written in python that allows you to create web application
+
+-> Supported by an independent foundation (Django software foundation)
+
+-> Django is primarly a backend framework, it has features that allows it to handle frontend development as well
+
+
+Why Django:
+
+-> set-up easy
+
+-> ready-to-user interface for administration activites
+
+
+
+
+
+Python Package index(pypi)
+repository of software for the python programming language
+(helps you to find and install software development ans share by python )
